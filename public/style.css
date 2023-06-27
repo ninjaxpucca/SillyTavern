@@ -191,7 +191,7 @@ table.responsiveTable {
 }
 
 .text_warning {
-    color: var(--orangered);
+    color: rgb(220 173 16);
 }
 
 .text_danger {
